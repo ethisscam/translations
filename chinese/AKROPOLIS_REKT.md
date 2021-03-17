@@ -77,7 +77,7 @@ Smartdec有着相当不错的[记录](https://blog.smartdec.net/)，但是，对
 bZx、Lien、[Harvest](https://www.rekt.news/harvest-finance-rekt/)以及现在的Akropolis。完善的安全审计永远不应该被视为安全保证，但
 Certik的审计肯定不如以前那么重要了...
 
-即使是一份制作精良、审核彻底的合同，如果落在奸商中，也会变成一场
+即使是一份制作精良、审核彻底的合约，如果落在奸商中，也会变成一场
 烂摊子。Akropolis这么快就对用户撒谎，说明责任并不全在Certik或黑客身上。
 
 虽然我们经常追求无信任的协议，但当涉及到用户和服务提供者之间的人际沟通时，
