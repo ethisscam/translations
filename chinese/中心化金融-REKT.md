@@ -1,56 +1,140 @@
 ---
-title: 中心化金融-REKT
-date: 2020年12月14日
+title: Coinbase和预言机
+date: 2020年11月26日
 tags:
-  - 美联储
-  - 中心化金融
-  - Rekt
-excerpt: 他们跟我们玩一样的游戏。赌注更高，但规则相同。如果是国家与国家之间的较量，没有人称"黑客攻击"为"漏洞利用"。相反，它是一个"巨大的网络间谍活动"，由"十分老练的威胁角色"所为。美国像其他国家一样被彻底打倒了。
-banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-1.jpg
+  - Coinbase
+  - 预言机
+  - 清算
+excerpt: 最近的攻击事件中，黑客将数百万美元归还给受害者，或者干脆将钱留在桌上，而他们本可以拿走更多。在最近发生的黑客事件中，各种方法已被用来盗取资金，但有一个人物却在整个过程中扮演了一个角色...
+banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/MV5BMjQ1NDAwMzI4Nl5BMl5BanBnXkFtZTgwMDkwMTEyMjI@._V1_.jpg
 ---
 
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-1.jpg)
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/MV5BMjQ1NDAwMzI4Nl5BMl5BanBnXkFtZTgwMDkwMTEyMjI@._V1_.jpg)
 
-**我们毕竟没有什么不同。**
+**我们永远看不透那些我们不理解的选择。**
 
-我们都用同一套方法。赌注更高，但规则相同。
+最近的攻击事件中，黑客将数百万美元归还给受害者，或者干脆将钱留在桌上， 
+而他们本可以拿走更多。
 
-如果是国家与国家之间的较量，没有人称"黑客攻击"为"漏洞利用"。
+在最近发生的[黑客事件](https://www.rekt.news/hack-epidemic/)中，各种方法已被用来盗取资金，但有一个人物却
+在整个过程中扮演了一个角色...
 
-相反，它是一个"巨大的网络间谍活动"，由"十分老练的威胁角色"所为。
+根据莫斐斯的说法，预言机"自始至终"都在为秘密抵抗组织服务。她
+是一个有意识的程序，协助人类抵抗，
+将人类从机器的压迫下解放出来。
 
-**美国像其他国家一样被彻底打倒了。**
+最近，预言机不断受到匿名特工的攻击，他们的目的是操纵她对现实的认知， 
+以达到利益最大化。
 
-一系列持续不断的攻击让我们发现，一个外部行动者已对美国财政部的电子邮件进行了数周的间谍活动。攻击者通过IT公司SolarWinds的软件更新获得了美国政府内部微软Office 365平台的访问权限。
+> [NEO](https://youtu.be/CsigSyTME9E?t=87)：我想最明显的问题是，我怎么能相信你？
 
-在此期间，网络安全公司[FireEye](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)也成为攻击目标，导致他们发布了以下声明。
+> 预言机：_这是一个_[黄瓜](https://www.rekt.news/pickle-finance-rekt/)，毫无疑问。
 
-> 与民族国家的网络间谍活动相一致，攻击者主要寻求与某些政府客户有关的信息。虽然攻击者能够访问我们的一些内部系统，但在我们调查之际，我们没有看到任何证据表明攻击者从我们的主要系统中盗取数据，这些系统存储了我们事件响应或咨询业务的客户信息，或者我们产品在动态威胁情报系统中收集的元数据。
+信任问题是价格预言机的共同特点，它可以是链上的，也可以是链下的。
 
-美国指责俄罗斯，俄罗斯[否认](https://www.facebook.com/RusEmbUSA/posts/1488755328001519)这一指责，利用社交媒体表示"[俄罗斯没有在网络领域进行进攻性行动](https://en.wikipedia.org/wiki/Cyberwarfare_by_Russia)"。
+就像samczsun[写的那样](https://samczsun.com/so-you-want-to-use-a-price-oracle/)：
 
-**这只是两个世界强国之间的作势活动罢了。代与代之间的恩怨情仇，尽管严重，却让双方留下了讽刺的余地，因为他们把自己的尊严放在一边，加入了国际角力竞争。**
+> 其中一种方法是，你可以直接从价格API或交易所中获取现有的链下价格数据，然后将其
+> 带到链上。另一方面，你可以通过咨询链上去中心化交易所
+> 来计算即时价格。
 
-________________________________________
-这一系列黑客事件已显露政府和机构目前面临着权力侵蚀。
+这两种方案都有各自的优势和劣势。
 
-技术正在创造公平竞争环境，绝对武力不再是扰乱对方阵脚的最有效方式。小群黑客可以攻击大型组织，并对整个经济造成附带损害。
+Uniswap、Kyber或Balancer等链上价格预言机不需要任何特权访问，并且
+始终保持最新状态，然而，这意味着它们很容易被攻击者操纵。
 
-永无止境的战争现在线上进行，国家对于无形的敌人处于永久防御模式。
+链下预言机**如Coinbase**通常对波动性的反应较慢，而且它们还需要
 
-**负的年收益率**
+**_"特权用户将数据推送到链上，所以你要相信他们不会变成邪恶，不能
+被胁迫推送不良更新"。_**
 
-年复一年，为我们国家网络安全提供资金的纳税人得不偿失，安全保障消失殆尽。
+今天的大规模清算是由于Coinbase预言机出现失误，或者说是操纵。
 
-和政府一样，中心化金融的老牌组织也会受到"网络攻击"，任何去过暗网市场的人都会看到，人们可以轻易地购买到FULLZ——被盗取的信用卡信息和身份证件。
+**我们在Compound Finance上看到了超过1.1亿的贷款清算，因为他们依赖Coinbase这个单一的
+预言机。**
 
-这些都是传统欺诈者的工具，他们以所有银行所占的1-2％的可接受损失幅度为生。
+![](https://lh6.googleusercontent.com/sR9XX4BQ3SiHSNM2iZzUh8msdZQ45UDfTkhhChTlKD55pzU3rNQU8hPyHUJndLeW7jXvbW0CWRErqePHbQQNnZ-KlR8HWbGNz2ImvumqAKO2sDaQozoq5pHTVyB7kmOhc6ZWj9P5)
 
-**[SWIFT](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack) ，[美联储](https://www.theguardian.com/business/2016/jun/01/federal-reserve-hackings-cybersecurity-espionage)，[孟加拉银行](https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery)抢劫案；不仅仅是去中心化金融成为黑客的受害者。**
+热门的收益耕作使得DAI/USDC脱锚，导致DAI的价格飙升至1.3美元，造成大规模
+清算，并为那些等待清算这些仓位的匿名代理带来了巨大利润。
 
-传统机构可以掩盖自己的过错，而去中心化金融同行则别无选择，只能面对自己的过失，努力挽回。这加快了进展周期，因为没有什么好隐藏的，我们在公开场合学习。
+> [Sam Priestley](https://twitter.com/arbingsam/status/1331922588193484800?s=20)解释了清算是如何发生的，以及人们如何从中获利。
+>
+> "今天有人在compound上被清算了4900万美元。清算人仅仅因为调用了一个方法就获得了370万美元。
 
-未来数十年，政府和金融企业都会屡屡遭到"网络攻击"，削弱了我们对他们长久以来的信任。巨型企业将继续存在，但随着全球消费者重新考虑自己的选择，他们的职权范围将逐渐缩小。
+> 受害者是一个杠杆式的复合耕作者。他们借出DAI和USDC，也借入DAI和
+> USDC。当DAI价格发生变化时，就把他们的账户推向了清算。如果他们保持DAI和
+> USDC在不同的钱包里，这就不会发生。
 
-**传统金融、去中心化金融或美联储，如果留下后路，您就会被彻底打倒。**
+> 当你的账户被清算时，清算人可以选择用你的任何抵押品
+> 用于偿还你的债务。所以清算人拿了DAI。向Uniswap借DAI。偿还DAI债务。获得更多
+> 清算中的DAI。偿还Uniswap。盈利
+
+> 大鳄可能认为他们是安全的，
+> 因为他们从来没有调用USDC的"进入市场"功能。但是，通过借入 USDC，他们激活了USDC作为DAI债务的抵押品。"
+
+![](https://lh4.googleusercontent.com/4s6zvtJuvM2gvebHTrXn_Nn5yf2wCtpMGMgQYkWmRFNgmyyT4vcfw1BpOKTNaZQkwMJ2dBo9ObVKOapaqOwykDqfT8f_Dx7dTBATRTD7egKq6y0il5mGetT2Jz6etsB97j0Cm4dC)
+
+感谢[@arbingsam](https://twitter.com/arbingsam/status/1331922588193484800?s=20)作出的分析。
+
+下图显示了DAI价格飙升的情况--对于一个本应稳定的代币来说，这是一个巨大的波动。
+
+![](https://lh4.googleusercontent.com/CWugWH8TcpdzKzgTzseevvzKjHuVzZGZ7XbUD1k6w5JT4v9Sqx2e0u4WsFoND5rFrb7cPehLXQhpNhwKNrtVOnlc7V51HSHaXMm0zvN9rELvuuTDzvFESAxTCo0SJPsQwnlt_K0k)
+
+当Coinbase[推出](https://blog.coinbase.com/introducing-the-coinbase-price-oracle-6d1ee22c7068)他们的预言机时，他们就意识到了依赖链下预言机
+所带来的问题。
+
+> "使用链下数据，需要相信发布者会发布正确价格，
+> 并妥善保管签名私钥"
+
+然而，他们并没有试图减少对信任的需求，只是向读者保证他们
+是值得信任的。
+
+> Coinbase是加密领域最值得信赖的公司之一，我们的主要任务之一就是
+> 发展加密经济。一个锚定在Coinbase安全基础设施中的高度可靠的价格馈送
+> 可以帮助使去中心化金融生态系统更加安全，降低系统性风险，并开启下一波增长和
+> 采纳。
+
+> 看来罗伯特·莱什纳（Robert Leshner）相信他们，正如他当时所说；
+
+> "Coinbase的价格预言机将提高Compound价格馈送的安全性和去中心化，这对协议和建立在Compound之上的
+> 应用生态系统来说是至关重要的任务。我们并不孤立—去中心化金融的其他成员将
+> 因更快的开发速度、一致的数据和共享标准
+> 而受益。"
+> 
+> - Compound首席执行官罗伯特·莱什纳（Robert Leshner）
+
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/image.png)
+
+
+**那么到底是哪里出了问题呢？**
+
+如果*"链下预言机需要特权用户才能将数据推送到链上"，*怎么会出现
+这种情况？
+
+Coinbase[状态页面](https://status.coinbase.com/)目前显示如下：
+
+![](https://lh6.googleusercontent.com/WQdMK6Voz-KX1DowA36GhZf8G3xrLN91xG6hFjHpevjVeA8VUL-2b3YPb-QYqyUBb9EjOoRG4c_M-gHNuoaMkmlze58fQUvpkim6SA-GtjkDt9KBh8gjFbMHwcjmk5QCZpt-LNVp)
+
+Coinbase 的预言机过去也曾出现过"问题"，似乎总能给某些行为者
+带来高额利润。
+
+这到底是操纵还是技术问题尚不清楚，但我们知道
+没有使用过闪电贷。要想把Coinbase的订单簿操纵到这种状态，就必须
+花上10万DAI，因为订单簿有30万的深度，锚定价格达到1.3美元。
+
+这是恶意的，粗心的，还是过期的技术？无论哪种情况，那些清算机器人都从
+这次事件中获利。
+
+使用任何单一的去中心化数据源作为价格预言机都并非明智之举，而Coinbase
+的情况特别糟糕，尤其是当你能用10万美元把订单簿抹掉。
+
+> "有些程序在各个地方运行。那些做着自己的工作，
+> 做着自己该做的事情的人，是无形的。你甚至不知道他们在这里。但其他人；
+> 嗯，我们经常听到他们的消息。"
+
+![](https://lh6.googleusercontent.com/7H_rZ46PnRaGA2vlOfTOgp5Lz0wtz7M4nNyuqEnLDDEx8fd2U5j5kOsfyw7MOWSo406JcW5btz4BYFBKT6KwZeAZDsMZayIuWC_K_0HB4zfRwkP03AweiMCJkwT6TX7w3krY1Nfs)
+
+别担心花瓶的事
+
 
