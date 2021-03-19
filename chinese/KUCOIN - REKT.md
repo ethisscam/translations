@@ -54,16 +54,27 @@ SNX价格影响7日走势图（2020年9月27日12:52.25 PM +UTC）
 对黑客采取行动的部分项目，以及被盗的代币大致价值。
 
 •	[Velo](https://twitter.com/veloprotocol/status/1309937702041608192?s=20) ~7600万美元
+
 •	[Tether](https://twitter.com/paoloardoino/status/1309771801581494272?s=20") ~2200万
+
 •	[Orion](https://blog.orionprotocol.io/tokenswap) ~1000万美元
+
 •	[KardiaChain](https://medium.com/kardiachain/kardiachain-issues-1-1-token-swap-in-response-to-kucoin-security-breach-ensuring-no-loss-to-kai-218b564b03d7)~1000万美元
+
 •	[Ocean Protocol](https://twitter.com/oceanprotocol/status/1310154281505390592)~900万美元
+
 •	[Ampleforth](https://twitter.com/AmpleforthOrg/status/1310355657632092160) -900万美元
+
 •	[VIDT Datalink](https://twitter.com/VIDT_Datalink/status/1309880082337615872?s=20)~700万美元
+
 •	[NOIA Network](https://medium.com/noia/kucoin-exchange-hack-update-fe8f49ca6393) ~500万美元
+
 •	[Aleph](https://medium.com/aleph-im/kucoin-exchange-hack-update-c1cd88a55301)  -120万美元
+
 •	[Covesting](https://twitter.com/covesting/status/1310103008152350725?s=20)  ~$600,000美元
+
 •	[Opacity](https://medium.com/opacity-storage/kucoin-security-incident-and-opq-token-swap-faa3fb45d44d) - $215,000美元
+
 •	[SilentNotary](https://twitter.com/SilentNotary/status/1309876794372354050?s=20)  - $99,000美元。
 
 虽然这对被盗资金的拥有者来说是一个正面消息，但这确实让人对每个协议是否真正去中心化产生了怀疑。
@@ -80,7 +91,7 @@ Curve在有人声称黑客还不如使用Curve或Balancer等去中心化金融�
 
 [https://twitter.com/cryptoquant_com/status/1309668583908061185?s=20](https://twitter.com/cryptoquant_com/status/1309668583908061185?s=20) 。黑客借机用比特币向社区发出了一条消息。
 
-> “[Epic 黑客大哥 - 不掌握私钥，币就不属于你]（https://blockchair.com/bitcoin/transaction/4e6f0e562e1309ff4fa17e0d87e9bdbadce924a16201e86807028cbed9dfb3b8）”
+> “[Epic 黑客大哥 - 不掌握私钥，币就不属于你](https://blockchair.com/bitcoin/transaction/4e6f0e562e1309ff4fa17e0d87e9bdbadce924a16201e86807028cbed9dfb3b8)”
 
 ![](https://lh3.googleusercontent.com/T1D2MBp9_4_vCpQCT3R-iM3Y7PBEylUJmZ8eP0sMh4Fe85tiWQxQP8M0Y2ZR9ELuXY-blAfwTmvy1jehVjF5zXMblrw1S_uytgoTDnQHwDFz7tzyORBLo8DRotsxIV-se_9zSiVH)
 
