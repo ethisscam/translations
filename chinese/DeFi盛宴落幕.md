@@ -78,7 +78,7 @@ SNX[通胀时间表](https://docs.google.com/spreadsheets/d/1a5r9aFP5bh6wGG4-HIW
 
 **YFI，去中心化金融收益的代理交易？**
 
-在撰写本文时，1个YFI为持有人提供的年收益率为~5%，虽然比以前低了不少，但还是一笔很可观的年收益率，因为这是YFI代币经济学直接产生的收入，金库的TVL用于耕作其他代币，而5%的加油补贴费和0.5%的金库用户提现费返还给金库内的用户。 
+在撰写本文时，1个YFI为持有人提供的年收益率为~5%，虽然比以前低了不少，但还是一笔很可观的年收益率，因为这是YFI代币经济学直接产生的收入，金库的总锁仓用于耕作其他代币，而5%的GAS补贴费和0.5%的金库用户提现费返还给金库内的用户。 
 
 ![](https://lh6.googleusercontent.com/jzWIOd1yx1nYkQVKQaPAaGHzb3aqdKphLDUHbbZgr1osO7oMvJCfM2GVQOMCaQwPPIMet71ggn4URplQ70ae8_R7yEabhD4bFtVeG7mN4N8C6TtLbsJU9eruFUOii1RC8KaYr3jw)
 
@@ -116,7 +116,7 @@ SNX[通胀时间表](https://docs.google.com/spreadsheets/d/1a5r9aFP5bh6wGG4-HIW
 
 •	我们应该看看早期的分布情况--代币的流动性如何？
 
-•	有多少枚是授权代币，归谁所有？
+•	有多少枚是解锁代币，归谁所有？
 
 解锁的代币可能是一种祝福，也可能是一种诅咒，因为虽然解锁代币会在代币生命周期的脆弱早期阶段产生高波动性，但它们也往往会加速价格发现的过程，而这是任何资产的重要阶段。
 
