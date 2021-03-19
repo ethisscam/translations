@@ -1,56 +1,120 @@
 ---
-title: 中心化金融-REKT
-date: 2020年12月14日
+title: 猎鲸 - SBF和BLUE KIRBY
+date: 2020年10月9日
 tags:
-  - 美联储
-  - 中心化金融
-  - Rekt
-excerpt: 他们跟我们玩一样的游戏。赌注更高，但规则相同。如果是国家与国家之间的较量，没有人称"黑客攻击"为"漏洞利用"。相反，它是一个"巨大的网络间谍活动"，由"十分老练的威胁角色"所为。美国像其他国家一样被彻底打倒了。
-banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-1.jpg
+  - sbf
+  - blue kirby
+  - 猎鲸
+excerpt: 红蜡烛燃烧得最旺盛。当牛市停止运行时，开始把矛头指向别人，兴奋和贪婪变成了怀疑和指责。在加密市场的半透明水域中，猎人用鹰眼观察鲸鱼。
+banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/Sperm-Whale-capture-3400gty-58b96f8b5f9b58af5c479aa4.png
 ---
 
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-1.jpg)
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/Sperm-Whale-capture-3400gty-58b96f8b5f9b58af5c479aa4.png)
 
-**我们毕竟没有什么不同。**
+**红蜡烛燃烧得最旺盛。**当牛市停止运行时，开始把矛头指向别人，兴奋和贪婪变成了怀疑和指责。
 
-我们都用同一套方法。赌注更高，但规则相同。
+在加密市场的半透明水域中，猎人用鹰眼观察鲸鱼。
 
-如果是国家与国家之间的较量，没有人称"黑客攻击"为"漏洞利用"。
+当水面变得波涛汹涌，利润难以获得时，许多小鱼就会向鲸鱼寻求方向。仔细观察再加上变幻莫测的市场的细微挑剔，往往会发现一些可疑的行为。
 
-相反，它是一个"巨大的网络间谍活动"，由"十分老练的威胁角色"所为。
+**就连Blue Kirby**在红色烛光下也显得与众不同。这位曾经被普遍喜爱的超活跃的YFI少男粉丝在过去的几周里第一次面临了公开的批评，先是在[黑客](https://www.rekt.news/eminence-rekt-in-prod/)之前天真地宣传EMN的未经审核的代码，然后是在市场翻红时抛售了他的YFI。
 
-**美国像其他国家一样被彻底打倒了。**
+分析舆论的变化总是很有意思。
 
-一系列持续不断的攻击让我们发现，一个外部行动者已对美国财政部的电子邮件进行了数周的间谍活动。攻击者通过IT公司SolarWinds的软件更新获得了美国政府内部微软Office 365平台的访问权限。
+Blue Kirby热衷于推销EMN，这让他付出了惨重的代价，迫使他从Yearn通讯官/ 奶王的正式职位上退下来。
 
-在此期间，网络安全公司[FireEye](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)也成为攻击目标，导致他们发布了以下声明。
+之前社区还乐于给Kirby [每月7000美元](https://gov.yearn.finance/t/nomination-for-roles-multisig-to-approve-execute/4549)的报酬，现在却拿着叉子向他的钱包抗议，当他卖掉了他赖以建立品牌的YFI时，对他推特的回复从失望变成了愤怒。
 
-> 与民族国家的网络间谍活动相一致，攻击者主要寻求与某些政府客户有关的信息。虽然攻击者能够访问我们的一些内部系统，但在我们调查之际，我们没有看到任何证据表明攻击者从我们的主要系统中盗取数据，这些系统存储了我们事件响应或咨询业务的客户信息，或者我们产品在动态威胁情报系统中收集的元数据。
+Kirby声称他的YFI销售是为了获得一些隐私，他计划使用不同的地址重新购买，但许多人都想知道为什么他不直接使用CEX存入他的代币并提取到其他钱包。
 
-美国指责俄罗斯，俄罗斯[否认](https://www.facebook.com/RusEmbUSA/posts/1488755328001519)这一指责，利用社交媒体表示"[俄罗斯没有在网络领域进行进攻性行动](https://en.wikipedia.org/wiki/Cyberwarfare_by_Russia)"。
+出售相当于总供应量0.08%的个人资产，可能对市场的影响为0。他的所作所为在任何地方都不是刑事犯罪，但在加密推特的土地上，社会的法律似乎随着市场的变化而变化，Kirby的行为受到了广泛的批评。
 
-**这只是两个世界强国之间的作势活动罢了。代与代之间的恩怨情仇，尽管严重，却让双方留下了讽刺的余地，因为他们把自己的尊严放在一边，加入了国际角力竞争。**
+在典型的Blue Kirby营销方式下，他将谴责转化为推广，并创建了#blamekirby标签。
 
-________________________________________
-这一系列黑客事件已显露政府和机构目前面临着权力侵蚀。
+Blue Kirby把加密推特玩得如鱼得水。他借助YFI的成功迅速建立了自己的品牌，尽管他的名声受损，退出了yearn团队，但他现在试图推出自己的代币。
 
-技术正在创造公平竞争环境，绝对武力不再是扰乱对方阵脚的最有效方式。小群黑客可以攻击大型组织，并对整个经济造成附带损害。
+似乎没有被他无情的公关活动中的这个小插曲所影响，Kirby正在为他神秘的NFT销售平台[Off Blue](https://off---blue.com/)进行ICO，该平台在几分钟内就筹集了[超过80万美元](https://twitter.com/MarketStupid/status/1314558440392454145?s=20)，尽管没有给出用户购买的细节，也没有提供项目的任何公开路线图。
 
-永无止境的战争现在线上进行，国家对于无形的敌人处于永久防御模式。
+让我们快来看看他们的宣言提供了什么吧 
 
-**负的年收益率**
+![](https://lh3.googleusercontent.com/es0MCiRS7CbJUWUJ6CWOoRgRh-J9Ll-4CFfr3G2dA_xL9ee1O-H29kKUKuDwq5c3sJmgWAvlm6wwQM1reY5APaTh2o6xXiL6eYnccXeoS6YJYeE8Rubw1xPQnHUM9Ea4CJAjOC7W)
 
-年复一年，为我们国家网络安全提供资金的纳税人得不偿失，安全保障消失殆尽。
+没有代币的团队--多么高尚。然而用户必须从Off Blue购买NFT来换取"毫无价值"的代币，每个代币的价格是1个ETH...... 
 
-和政府一样，中心化金融的老牌组织也会受到"网络攻击"，任何去过暗网市场的人都会看到，人们可以轻易地购买到FULLZ——被盗取的信用卡信息和身份证件。
+![](https://lh3.googleusercontent.com/11MwBLNhIZcAI1wU7tqC-5I2asCPuiCu6G0V7ACLnYE-9H89-RMUpqSEf7oyPvEpYROXAjM1r2SRcpHjj269p5IxaJxRAids3_pIu-4w5ro40cOjhgx42ZbfxKfNjVBIZwldSA9j)
 
-这些都是传统欺诈者的工具，他们以所有银行所占的1-2％的可接受损失幅度为生。
+这由谁控制?! 
 
-**[SWIFT](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack) ，[美联储](https://www.theguardian.com/business/2016/jun/01/federal-reserve-hackings-cybersecurity-espionage)，[孟加拉银行](https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery)抢劫案；不仅仅是去中心化金融成为黑客的受害者。**
+![](https://lh3.googleusercontent.com/2xIs667NQ69KNP3yGIOqlnbW9GUx3P_L2WnTse9A9NTdzyGSDET-2sWbbX-2nL88cpAoohWrBC7YwpcPfSOjETJhiQ6fK1GliEPfcy1MKJbAIBTM9pMYZnnD89RCCNsFwFvSbTJX)
 
-传统机构可以掩盖自己的过错，而去中心化金融同行则别无选择，只能面对自己的过失，努力挽回。这加快了进展周期，因为没有什么好隐藏的，我们在公开场合学习。
+这又由谁控制的?
 
-未来数十年，政府和金融企业都会屡屡遭到"网络攻击"，削弱了我们对他们长久以来的信任。巨型企业将继续存在，但随着全球消费者重新考虑自己的选择，他们的职权范围将逐渐缩小。
+[这里](https://etherscan.io/address/0xA11f2dec4bab2E07de7708Dd640004Ef80cCaBCe#code)是合约地址，有兴趣的朋友，我们鼓励你做一些研究，让我们知道你发现了什么！
 
-**传统金融、去中心化金融或美联储，如果留下后路，您就会被彻底打倒。**
+除非你是Blue Kirby的忠实粉丝，以至于你想干脆把钱给他，否则也许你应该远离这个廉价的ICO。
+
+在像卡通风格的模仿陷入法西斯主义的情况下，Blue Kirby已经开始[禁止](https://twitter.com/meeseeking/status/1314581750153121793?s=21)回复他的推文，缄默任何对他行动的批评，而他从恼人的粉丝转变为极端的2017年ICO诈骗高手。
+
+在没有监管的情况下，信誉是关键。加密推特经常出现这样的现象，你要么壮烈牺牲，要么活得足够长，成为反面人物。
+
+一个出人意料的举动，为各位笔者提供了一个完美的转折点；Blue Kirby的ICO刚刚被[转发](https://twitter.com/off___blue/status/1314310177609318400?s=20)，转发者不是别人，正是...
+
+Sam Bankman Fried；是业内另一位知名人物；他似乎一直在避免这样的二元标签。常见的首字母缩写；SBF是加密衍生品交易所FTX和交易平台/投资公司Alameda Research的首席执行官。
+
+SBF的行动在最近几周受到人们关注--从他在9月初出人意料地[接管](https://twitter.com/SBF_Alameda/status/1302510335803363331?s=20)了SushiSwap协议开始。
+
+最近，人们对大量FTT--（FTX的原生代币）被质押在C.R.E.A.M Finance上作为抵押品使用表示担忧。
+
+目前在C.R.E.A.M上有8000万美元的FTT被用作抵押品。
+
+如果我们对钱包[0x477573f212A7bdD5F7C12889bd1ad0aA44fb82aa](https://debank.com/portfolio/0x477573f212A7bdD5F7C12889bd1ad0aA44fb82aa)进行分析，可以看到，7600万美元的FTT和1170万美元的Sushi被用作抵押品，在发给Binance之前，借入了480万美元的UNI和250万美元的YFI。
+
+看来有太多人盯着那个钱包了，所以他们向CREAM偿还了YFI债务，又用另一个地址[向Aave借了800个YFI](https://twitter.com/JulienThevenard/status/1314151926586634241?s=20)。此后他们从Huobi和Binance收到了468个发往该地址的YFI，所以看起来做空成功了。 
+
+![](https://lh4.googleusercontent.com/G-Go16pH155x6ckdT12bHxYa7W-M8Xix6MZ6lxgsV3J311xz7lXZL1KGHnLrTxBAPEhZZXB6LTxPPo8qRMZhQbGnB8ekxsB00fyRVE5jqwKMhRQnSMp0kbcXC9F39Ao4YVIs6jFY)
+
+对于用FTT作为抵押品来卖空其他资产，公众已对此进行大量争论和质疑。很多用户在推特上表达了自己的担忧，10月9日，召开了一次治理[快照投票](https://snapshot.page/#/cream/proposal/QmapHjJJGMwvSVygCMKaTaGbWiPdtaqu5fxXM5LQhWSqgT)，决定是否将FTT从C.R.E.A.M.除名。
+
+以下信息与快照投票一并呈现。
+
+_1 - FTT代币被加入C.R.E.A.M.，但它并不是一个受欢迎的代币_
+
+_2 - Alameda是唯一使用FTT代币的用户，crFTT占96%。这在Etherscan上很容易显示出来。_
+
+_3 - 如果FTT退市，其他用户也许不会受到影响，FTT的供应量很少，借贷需求也很少。_
+
+_4 - FTT不是正常资产。很多资产都会跌价，但因为FTT是完全中心化的代币，如果出现问题，可以瞬间跌到0美元，这对所有C.R.E.A.M.用户来说都是安全风险。_
+
+_5 - SBF借用YFI，破坏了YFI的价格，他在Binance和其他交易所卖出了YFI--直到他被抓住，YFI才重新涨起来_
+
+投票将持续到10月14日，所以现在说结局如何还为时过早，不过，在撰写本报告时，100%的票数支持将FTT除名。
+
+虽然SBF显然有能力购买足够多的CREAM来摇摆对他有利的票数，但这样强行投票不仅会对他的声誉产生负面影响，还会降低整个C.R.E.A.M协议的可信度。
+
+C.R.E.A.M的创始人[Jeffrey Huang](https://twitter.com/machibigbrother)，似乎并不觉得SBF使用其协议的方式有什么不妥，并对他的行为进行了赞扬；声称他们展示了良好的[产品市场契合度](https://twitter.com/machibigbrother/status/1313887798923935750?s=20)。 
+
+![](https://lh5.googleusercontent.com/P4a0ECkn4OO3nQNwL-a8Fup1ambVFKV7PYltURmLISRwxB6NfsL6JceznpIEaxTkwpIa2AU-5Xtw0sFEcjFChgaPlTfAgpGEZT7-bsJbVtz0LQl-T8_5INBjZLhTynK1PA5ufzuC)
+
+需要注意的是，社区不仅对SBF做空他们的资产感到不满，而且对他通过存入自己的中心化代币，并将其作为抵押品来做空其他去中心化代币，从而接管一个去中心化协议感到不满。
+
+SBF已就此事发声，为自己的行为辩护。事实上，他竟然要这样做令人感到意外，因为去中心化金融的核心价值之一是协议是对外开放，任何人都可以以参数允许的任何方式使用。
+
+然而，可以说，能够获得如此大量的中心化代币，给他带来了不公平的优势，特别是当真实的市场价值不可能与它们被赋予的抵押品价值相同时。
+
+[Coingecko](https://www.coingecko.com/en/coins/ftx-token) 列出了FTT的24小时交易量仅有200多万美元。Uniswap上最受欢迎的FTT[交易对](https://info.uniswap.org/pair/0x36d6a86226d2fc54361241b8b030dd86bc55ed04)的流动性只有155.62美元。如果这些代币曾经不得不用来抵押头寸，它们根本无法保持其价值。 
+
+![](https://lh3.googleusercontent.com/YQc1p1Cjir7zQNE3u_5zdfzv7yfKv3Pxc2XXnrEwaszZX_df0FkC58WROMfYgI1xilMtygLTm3R8u_COSk-2ZBBjy-QRNaey-OaoUIYl2wX1YjDUdl588sHUGaxh8sC5GRzPTlhp)
+
+当经济理性的市场参与者如SBF能够以社区不认可的方式利用这些工具时，市场及其用户的不成熟性就会暴露出来 。
+
+当Blue Kirby等影响力较小的行动者采取社会不认可的行动时，他们就会把自己的职业生涯置于危险之中。如果你是一个"有影响力的人"，营销和公关是你唯一的工具。作为YFI最大的吉祥物，Blue Kirby的追随者看到他抛售代币感到失望是可以理解的。
+
+然而，SBF和Alameda Research的处境却不同。Alameda是一家以盈利为目的的公司，当去中心化金融给他们提供了一个机会，他们勇于接受挑战并抓住机会。
+
+随着机构资金流入加密货币，并让全球的立法者和监管者头疼不已，人们不禁要问，这种无政府主义的功利主义能持续多久。
+
+在我们的政府收紧对我们世界的控制之前，代码即法律，我们应该接受这个事实。
+
+SBF应该是一个[有效利他主义的粉丝](https://80000hours.org/career-guide/member-stories/sam-bankman-fried/)—凭借他的财富改善他人的生活。如果你因为他做空你的资产而损失了钱，希望你能从他可能把你的持仓捐给慈善机构中得到一些安慰。
+
 
