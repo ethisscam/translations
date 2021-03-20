@@ -30,7 +30,7 @@ Rekt联系了0xMaki，想听听他的说法。
 
 ![](https://lh5.googleusercontent.com/bLAbz--dDRJoIQjlauDxi08j9x-pObms6J3_LmI2hhMGNs5kCYYxs-Dz13TsdF6IRgQ36NlQ-CiJpWUCZ9IVZaYGMju15bhw3vwVmG6WzAigF_sPkGojiOPjj6Ve3vdCiUJEOBZN)
 
-**0xMaki：**自从[南森](https://research.nansen.ai/sushiswap-farming/)报告出炉后，我就一直在为Sushibar提供服务，以便
+**0xMaki**：自从[南森](https://research.nansen.ai/sushiswap-farming/)报告出炉后，我就一直在为Sushibar提供服务，以便
 减轻套利者的机会。我曾见过一些规模较小的异常交易，但
 认为这并没有什么不妥，因为Sushibar还在正常运营。
 
@@ -39,7 +39,7 @@ Rekt联系了0xMaki，想听听他的说法。
 
 这里第一次[提到](https://discord.com/channels/748031363935895552/753626532500734014/782428289868365884)了一个关于Sushibar的问题。（[Discord](https://discord.com/channels/748031363935895552/753626532500734014/782428289868365884)）
 
-Monstar
+**Monstar**
 
 @0xMaki源 義経sushibar到底是怎么回事？里面有各种异常交易， 
 而且看起来那些在sushibar里盯着的人并没有从他们那里得到任何寿司
@@ -97,9 +97,9 @@ Sushibar索取费用的问题，虽然令人厌倦，但这是一个很好的bug
 
 今天，我们将放弃约10000美元，因为有人在Sushibar里
 
-**Rekt：**谢谢你的链接。你的第一想法是什么？
+**Rekt**：谢谢你的链接。你的第一想法是什么？
 
-**0xMaki：**我的第一印象是，Sushibar不可能出现问题吧，
+**0xMaki**：我的第一印象是，Sushibar不可能出现问题吧，
 对吗？一定是在前端...Tx是没有任何意义的。但后来Sushibar没有捞到钱的时候， 
 里面应该有更多的钱。
 
@@ -110,28 +110,28 @@ Sushibar索取费用的问题，虽然令人厌倦，但这是一个很好的bug
 
 Banteg也没办法，他的时间是早上6点，他当时忙着处理pickle。所有的寿司开发人员都在睡觉--欧洲/东京时区，只有我在北美。
 
-**Rekt：**你找了谁来帮忙？
+**Rekt**：你找了谁来帮忙？
 
 0xMaki：我找来了[Andy](https://twitter.com/andy8052)，他目前在yEarn担任策略师；他是前makerdao智能合约工程师
 和前Coinbase员工[Daniel Que](https://twitter.com/danielque)
 
-**Rekt：**花了多长时间才修好？
+**Rekt**：花了多长时间才修好？
 
-**0xMaki：**花了3 -4个小时进行复制并找到问题。
+**0xMaki**：花了3 -4个小时进行复制并找到问题。
 
-**Rekt：**损失了多少钱？
+**Rekt**：损失了多少钱？
 
-**0xMaki：**只损失了1.5万，因为Sushibar每天只累计2-3万。0.05%用于
+**0xMaki**：只损失了1.5万，因为Sushibar每天只累计2-3万。0.05%用于
 奖金池，而且这一切都需要手动完成，有tx失败的风险。
 
 **Rekt：黑客攻击还是漏洞利用？**
 
-**0xMaki：**完全是漏洞利用，聪明的家伙，他应该得到资金。我想我已经找到了
+**0xMaki**：完全是漏洞利用，聪明的家伙，他应该得到资金。我想我已经找到了
 他...
 
-**Rekt: **你是羡慕不已还是觉得尴尬？
+**Rekt**：你是羡慕不已还是觉得尴尬？
 
-**0xMaki：**羡慕不已！我不可能感到尴尬!能目睹这些黑客攻击/漏洞利用确实令人深刻印象，
+**0xMaki**：羡慕不已！我不可能感到尴尬!能目睹这些黑客攻击/漏洞利用确实令人深刻印象，
 即使有强大的审计，也总会出现一些
 我们未必会计划或想到的新情况。
 
@@ -155,18 +155,21 @@ Banteg也没办法，他的时间是早上6点，他当时忙着处理pickle。�
 
 （[Samczsun](https://twitter.com/samczsun)）
 
-**Rekt：**他是怎么发现的？
+**Rekt**：他是怎么发现的？
 
-**0xMaki：**因为我已在没有任何.sol jedi的情况下被抛弃了，我就联系了他
+**0xMaki**：因为我已在没有任何.sol jedi的情况下被抛弃了，我就联系了他
 
-**Rekt：**.sol-diers
+**Rekt**：.sol-diers
 
 ![](https://lh6.googleusercontent.com/XmqXGATsYH7SArH7jLF82J1KLSczUODpWDI6AfY4yXUSJYrPQNoAt-TE8sueyr97jK83hDBrAK4lYtm0XfZvxGRhbPM3jNbpLuCHd4eHO4e1lSuTkrYE0KpiA384Y4et4IYy8Kw4)
+
 ![](https://lh4.googleusercontent.com/AVz2977b1kJ93j9w8YlTFnQ728CBJhIKkie-4Gn-MDdqIErJbSXCYr-qLbTpxiCT70IPzzmQy6aBZ7jtrO0V4ZQsXY1FSoCawBsVPv3uwkAxYzoA3Lrsd7qRFd5-ikwliik1l0rQ)
+
 ![](https://lh4.googleusercontent.com/CzyFAdpwpd5iAHD-S5EHgPAnlPl_B_IhbS8rNOsE5T5g-X_HLimDvQi6hIm8sQu_GCBTog_KKRxDwj1gXafHuywBpCdHFmthdL-GylfH0h6gkX-Ep91ucovdYvan78k_cdzHzPJg)
+
 ![](https://lh4.googleusercontent.com/Cv4Ty0uF7kAY9EMIETzT26Eabe2jnfyQtFGsoA6qRJSrG1Lk7GIQlIKlLtngeneyL-kz5Q7m1S5dft6pooiYQ7r9jQMzHQsnTSjXgpjx1kVT4VOy6cHJ650KAwL_ErFcKCJbJltE)
 
-**0xMaki：**但很遗憾...当时已经很晚了，他像任何一个正常人一样在周六晚上有计划， 
+**0xMaki**：但很遗憾...当时已经很晚了，他像任何一个正常人一样在周六晚上有计划， 
 是吗？
 
 回到原点，没人能帮上忙...
@@ -181,26 +184,26 @@ Banteg也没办法，他的时间是早上6点，他当时忙着处理pickle。�
 
 Rekt：你还在和Nomi说话吗？
 
-**0xMaki：**没有了。
+**0xMaki**：没有了。
 
 ![](https://lh5.googleusercontent.com/KxNo_yX9tboZIjfc6xvqsUs_Z13C9OSb28xmCCuF_1UFKbhDNs_el1Nd7nFflSzBGefGiA5r3w7deozbKxFk-SfGPTxDg-DzXWVFyUP3EzkHdRLjFFvtcu7hqMSq8KEgMsYh-zgo)
 
-**0xMaki：**02:35，我们已进行复制！！！。我们已经弄清楚这个漏洞是如何运作的，并且
+**0xMaki**：02:35，我们已进行复制！！！。我们已经弄清楚这个漏洞是如何运作的，并且
 能够进行复制，所以我们可以做修复工作。
 
 03:19我们已修复。
 
 ![](https://lh6.googleusercontent.com/KmbawxTOw3xF7yC0w63X6K_XzBY85q5G4c4LAuWLqWEnq64DZcNbbUxnAHVY6iKnNUZdle8IgJrm1yf2E5VqA9skhtkLDFWwkex7tVZxfDb2TYI3sE_ML3AAoF4PJV0NTHNcNmhW)
 
-**0xMaki：** 事情看起来好了很多，团队正在觉醒，并且正进行修复工作。同时
+**0xMaki**： 事情看起来好了很多，团队正在觉醒，并且正进行修复工作。同时
 --我转向我们的剥削者，看到他主要是SNX和ETH的持有者。
 
 我浏览了他的tx--这不是一个为了黑客而做的账户，这是一个人在瞎折腾
 并寻找漏洞。
 
-*Rekt：**你凭什么这么说？
+**Rekt**：你凭什么这么说？
 
-**0xMaki：**小费。他在SNX和ESD中收到了很多小费，所以他是一个在两个社区里
+**0xMaki**：小费。他在SNX和ESD中收到了很多小费，所以他是一个在两个社区里
 经常出入的人，极有可能是Discord。
 
 我对照了谁收到和谁在多个日期发送了某些小费，果然...
@@ -220,12 +223,12 @@ Rekt：你还在和Nomi说话吗？
 
 "不可能是我"
 
-**0xMaki：**由于这笔钱属于纯利润，没有人损失任何资金，因为这笔钱
+**0xMaki**：由于这笔钱属于纯利润，没有人损失任何资金，因为这笔钱
 注定要给xSushi的持有人。我们将从库房中送出价值1.5万的寿司--
 按比例分配的。
 
-**Rekt：**那就不严重了，吃点小菜吧!对嫌疑人有什么最后要说的吗？
+**Rekt**：那就不严重了，吃点小菜吧!对嫌疑人有什么最后要说的吗？
 
-**0xMaki：**联系我吧！我们还有更多的智能合约让你去探索，而且我们支付bug赏金!
+**0xMaki**：联系我吧！我们还有更多的智能合约让你去探索，而且我们支付bug赏金!
 
 我还要[感谢](https://twitter.com/0xMaki/status/1332993111950319618?s=20)所有参与报道的人，包括攻击者。
