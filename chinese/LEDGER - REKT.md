@@ -5,7 +5,7 @@ tags:
   - ledger
   - gdpr
   - Rekt
-excerpt: 我们遇到的所有人，都是由善与恶混合而成的：两张面孔和两种人格，有着共同的隐秘目标。如同杰基尔之于海德，白帽之于黑帽。具有不可抗拒效果的知识源泉-当没有惩罚时，我们谁能抗拒这样的奖励？
+excerpt: 用你的钱包投票。Ledger已经失去了用户的信任。7月份采集的客户信息，早就提供给愿意付费的人，而且现供免费查阅。
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-3.jpg
 ---
 
@@ -15,7 +15,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/head
 
 Ledger已经失去了用户的信任。
 
-7月份采集的客户信息，早就提供给愿意付费的人，但现供免费查阅。
+7月份采集的客户信息，早就提供给愿意付费的人，而且现供免费查阅。
 
 **昨夜，[raidforums](https://raidforums.com/Thread-LEDGER-com-Full-1KK-Emails-272k-Full-Info-Orders) **公布了272,853名客户和1,075,382名电子邮件订阅者的[名单](https://pastebin.com/pBED4Pe5)，这份名单令一些论坛用户大感失望，[他们](https://twitter.com/cryptonator1337/status/1340917978766991363?s=20)抱怨说OP毁了其财务价值。
 
