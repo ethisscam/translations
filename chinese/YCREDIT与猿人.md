@@ -5,7 +5,7 @@ tags:
   - ycredit 
   - Cronje 
   - 访谈
-excerpt: Cronje不为投机者而构建，然而新的Cronje代码似乎是用来投机的，别无他。在Cronje审计过程中，他把未完成的产品扔给猿人，猿人则欣然接受扔过来的任何代币。用
+excerpt: Cronje不为投机者而构建，然而新的Cronje代码似乎是用来投机的，别无他。在Cronje审计过程中，他把未完成的产品扔给猿人，猿人则欣然接受扔过来的任何代币。
 banner: https://lh6.googleusercontent.com/sv-PN0hSY1Cgjid_grLz74bTXRSJHL7aLHjDvD4Kgbk_r-_d6QH_EIohZEqQ1bcXwtfsm4mNktsgh-FMrcQaSq-oTIlZ2evVgheMT2gnu6rdOGJAYkYd1lizbnz9d8AdqBZWp3im
 ---
 
