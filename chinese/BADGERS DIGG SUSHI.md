@@ -8,23 +8,23 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/head
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/header-3.jpg)
 
-我们知道蜜獾在夜间外出觅食时会走同样的路线。这会在田野和树林之间形成一条破旧的道路。
+**我们知道蜜獾在夜间外出觅食时会走同样的路线。这会在田野和树林之间形成一条破旧的道路。**
 
-当蜜獾的通常路径受到某种方式的干扰或阻碍时，这会使动物迷惑，并导致它们重新基于错误的配对。
+**当蜜獾的通常路径受到某种方式的干扰或阻碍时，这会使动物迷惑，并导致它们重新基于错误的配对。**
 
-我们被提醒进行一项交易，该交易似乎表明有 经验的DeFi用户 通过将0.001转换为81.68 ETH Badger DAO 令牌 DIGG。
+一笔交易告警向我们展示一位[经验丰富的DeFi用户](https://etherscan.io/address/0x51841d9afe10fe55571bdb8f4af1060415003528)使用[Badger DAO](https://app.badger.finance/)的代币[DIGG](https://www.coingecko.com/en/coins/digg)把0.001个ETH变成81.68个。
 
 经过进一步研究，我们发现尽管存在漏洞利用，但损害已经得到遏制，被视为对整个SushiSwap协议构成威胁的仅仅是一个聪明的拾荒者，捡拾剩下的食物。
 
-由于SushiSwap团队一时的健忘，一个已知的钱包正在利用一个旧漏洞，该漏洞已重新打开。
+**由于SushiSwap团队一时的健忘，一个已知的钱包正在利用一个旧漏洞，该漏洞已重新打开。**
 
-尽管起初引起我们注意的交易似乎令人震惊，但是一旦我们与Sushi团队进行了交谈，就可以清楚地发现，没有太大的担忧可言。
+**尽管起初引起我们注意的交易似乎令人震惊，但是一旦我们与Sushi团队进行了交谈，就可以清楚地发现，没有太大的担忧可言。**
 
-该 交易 表明SushiMaker试图通过一个Digg / ETH池转换的DIGG /工务局技术通告交换费0.05％（对于〜24小时）少的流动性和患高打滑，导致对Digg的/ ETH池的流动性提供丰厚的费用。
+该[交易](https://etherscan.io/tx/0x0af5a6d2d8b49f68dcfd4599a0e767450e76e08a5aeba9b3d534a604d308e60b)显示SushiMaker试图通过一个几乎没有流动性和高滑点的Digg/ETH池转走DIGG/WBTC0.05％的兑换费（〜24小时），导致Digg/ETH池的流动性提供者获得丰厚的费用。
 
 这些是本应支付给XSUSHI持有者的费用，但转给了攻击者。
 
-这怎么发生的？
+**这是怎么发生的？**
 
 尽管已经在几周前创建了解决方案，但必须将其与每个新池一起手动应用。由于尚未应用此功能，因此拾荒者得以潜入并收取xSushi持有人应支付的费用。
 
@@ -54,17 +54,17 @@ SushiMaker是收取0.05％交易费用并将其转嫁给以xSUSHI抵押SUSHI的�
 
 来自[Nansen](https://nansen.ai/)的数据 
 
-我们发现了几笔交易，表明 该演员 一直在试图利用此漏洞并窃取LP费用。
+我们发现了几笔交易，表明该用户一直在试图利用此漏洞并窃取LP费用。
 
-0x90fb0c9976361f537330a5617a404045ffb3fef5972cf67b531386014eeae7a9(https://etherscan.io/tx/0x90fb0c9976361f537330a5617a404045ffb3fef5972cf67b531386014eeae7a9)
+[0x90fb0c9976361f537330a5617a404045ffb3fef5972cf67b531386014eeae7a9](https://etherscan.io/tx/0x90fb0c9976361f537330a5617a404045ffb3fef5972cf67b531386014eeae7a9)
 
-0x0af5a6d2d8b49f68dcfd4599a0e767450e76e08a5aeba9b3d534a604d308e60b(https://etherscan.io/tx/0x0af5a6d2d8b49f68dcfd4599a0e767450e76e08a5aeba9b3d534a604d308e60b)
+[0x0af5a6d2d8b49f68dcfd4599a0e767450e76e08a5aeba9b3d534a604d308e60b](https://etherscan.io/tx/0x0af5a6d2d8b49f68dcfd4599a0e767450e76e08a5aeba9b3d534a604d308e60b)
 
-0xcec93808a657d00cbb0245711e9419d0ea278b3a60a9a6d0a8c3353523c0e982(https://etherscan.io/tx/0xcec93808a657d00cbb0245711e9419d0ea278b3a60a9a6d0a8c3353523c0e982)
+[0xcec93808a657d00cbb0245711e9419d0ea278b3a60a9a6d0a8c3353523c0e982](https://etherscan.io/tx/0xcec93808a657d00cbb0245711e9419d0ea278b3a60a9a6d0a8c3353523c0e982)
 
-0xe0527f7befaea54257113a09c8b3f4cd416e11a0e196cd2ba2e5e07c47767ddf(https://etherscan.io/tx/0xe0527f7befaea54257113a09c8b3f4cd416e11a0e196cd2ba2e5e07c47767ddf)
+[0xe0527f7befaea54257113a09c8b3f4cd416e11a0e196cd2ba2e5e07c47767ddf](https://etherscan.io/tx/0xe0527f7befaea54257113a09c8b3f4cd416e11a0e196cd2ba2e5e07c47767ddf)
 
-什么可能是被证明是对的寿司队略有羞辱一场灾难。
+本来可能是一场灾难结果证明只是对Sushi团队的一次小小耻辱。
 
 尽管攻击者已成功利用了我们的漏洞，但我们可以认为这是对SushiSwap的紧迫呼吁，SushiSwap目前拥有 $ 1.9B TVL 进行保护。
 
